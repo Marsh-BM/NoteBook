@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "c3b1b97cab575fc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "12566cb2eb47b734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8d9927ff6808c9d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65498fd52df89570",
+    "type": "split",
+    "children": [
+      {
+        "id": "0399b420072b1063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "958828202d12d5e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccb0ccd0670833fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "479ada1a55bb1e0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "743d9c3b51528a92",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aafde393eff2df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "028fe65c6d40c53c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9163e2f4cc3afd3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "148d82cc90a7f2e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22a6f859e8d92053",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b8d9927ff6808c9d",
+  "lastOpenFiles": [
+    "常用/大四上/COMP338.md",
+    "常用/大四上/COMP390 Honours Year Computer Science Project.md"
+  ]
+}
